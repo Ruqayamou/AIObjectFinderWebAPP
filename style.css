@@ -1,0 +1,33 @@
+body{
+    background-size: cover;
+    background-position: center;
+}
+
+.heading{
+    margin: 0;
+    width: 100%;
+    font-size:22px ;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+#note{
+    font-size: 13px;
+    color: black;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+#start, #status, #object-found{
+    font-size: 18px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+label{
+    font-family: 'Courier New', Courier, monospace;
+}
+
+canvas{
+    border-radius: 10px;
+    box-shadow: 5px 5px 5px skyblue;
+    border: 2px solid lightblue;
+    margin-top: 100px;
+}
